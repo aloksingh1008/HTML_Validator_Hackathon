@@ -1,0 +1,12 @@
+✓ Your portfolio contain a "Welcome" section with an id of welcome-section.
+✓ Your #welcome-section element had an h1 element.
+✓ Your portfolio don't have any empty h1 elements within #welcome-section element.
+✓ Your portfolio have a "Projects" section with an id of projects.
+✓ Your portfolio have one(or more than one) element with a class of project-tile.
+✓ Your #projects element contain one(or more than one) 'a' element.
+X Your portfolio don't have a navbar with an id of navbar.
+X Your #navbar element don't contain one 'a' element whose href attribute starts with #.
+✓ Your portfolio have an a element with an id of profile-link.
+✓ Your #profile-link element have a target attribute of _blank.
+X Your portfolio don't used one(or more than one) media query.
+X Your #navbar element is not at the top of the viewport.
